@@ -5,6 +5,7 @@
 > **2025 Samsung Collegiate Programming Challenge : AI 챌린지(2025.06.19 ~ 2025.07.28)**
 
 **public score : 0.76601(47th)**
+
 **private score : 0.7708(15th)**
 
 
