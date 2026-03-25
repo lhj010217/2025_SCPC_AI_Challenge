@@ -37,7 +37,7 @@
 - 이 기준은 추론 코드에서 실제로 로드(Load)되는 모든 모델의 가중치(parameter)의 수 합계를 기준으로 판단합니다.
 
 
-사용한 데이터는 삼성 AI 리서치에서 제공하였으며, 이미지와 질문을 입력으로 받아 주어진 선택지(A~D) 중 정답을 고르는 **멀티모달 객관식 질문응답(Multiple-choice Visual Question Answering)**이 주요 과제였습니다.
+사용한 데이터는 삼성 AI 리서치에서 제공하였으며, 이미지와 질문을 입력으로 받아 주어진 선택지(A~D) 중 정답을 고르는 멀티모달 객관식 질문응답(Multiple-choice Visual Question Answering)이 주요 과제였습니다.
 
 ---
 
